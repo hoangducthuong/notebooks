@@ -2,3 +2,5 @@ aplpy
 bokeh
 astropy
 matplotlib
+scipy
+numpy

@@ -1,4 +1,0 @@
-aplpy
-bokeh
-astropy
-matplotlib
